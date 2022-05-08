@@ -40,6 +40,7 @@ src="https://img.shields.io/github/followers/saira512dev?logo=github&style=for-t
 
 <p align="center"> <a href="https://www.github.com/saira512dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> &nbsp;&nbsp;<a href="https://www.linkedin.com/in/saira-abdulla-dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>  &nbsp;&nbsp; <a href="https://www.twitter.com/Devnewbie1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 <br>
-
-<a href="http://www.github.com/saira512dev" align="center"><img src="https://github-readme-stats.vercel.app/api?username=saira512dev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ef4444&icon_color=84cc16&bg_color=FFFAFA&hide_border=true&show_icons=true" alt="saira512dev's GitHub stats" /></a>
-<a href="http://www.github.com/saira512dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saira512dev&stroke=ef4444&background=FFFAFA&ring=0891b2&fire=0891b2&currStreakNum=ef4444&currStreakLabel=0891b2&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
+<p align="center">
+<a href="http://www.github.com/saira512dev"><img src="https://github-readme-stats.vercel.app/api?username=saira512dev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ef4444&icon_color=84cc16&bg_color=FFFAFA&hide_border=true&show_icons=true" alt="saira512dev's GitHub stats" /></a></p>
+<p align="center">
+<a href="http://www.github.com/saira512dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saira512dev&stroke=ef4444&background=FFFAFA&ring=0891b2&fire=0891b2&currStreakNum=ef4444&currStreakLabel=0891b2&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a></p>
