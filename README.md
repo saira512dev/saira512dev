@@ -7,7 +7,7 @@ Full Stack Web Developer
 I have worked as a backend developer for 6 months(PHP-LARAVEL). I have been studying front-end development since 2020. Right now, I am learning the MERN stack.
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [sairaabdulla@gmail.com](mailto:sairaabdulla@gmail.com)
+* ✉️  You can contact me at [sairaabdulla@gmail.com](mailto:sairaabdullapa@gmail.com)
 * 🧠  I'm learning The MERN stack
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I love reading, acquiring new skills and trying out new recipes
