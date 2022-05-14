@@ -15,7 +15,7 @@ I have worked as a backend developer for 6 months(PHP-LARAVEL). I have been stud
 <p align="center" 
 <a href="https://www.twitter.com/Devnewbie1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Devnewbie1?logo=twitter&style=for-the-badge&color=84cc16&labelColor=1c1917"
-/></a><a href="https://www.github.com/saira512dev" target="_blank" rel="noreferrer"><img
+/></a>&nbsp;&nbsp;<a href="https://www.github.com/saira512dev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/saira512dev?logo=github&style=for-the-badge&color=84cc16&labelColor=1c1917" /></a>
 </p>
 <br>
@@ -37,6 +37,9 @@ src="https://img.shields.io/github/followers/saira512dev?logo=github&style=for-t
 
 <br>
 <h3 align="center">Socials</h1>
+
+
+
 
 <p align="center"> <a href="https://www.github.com/saira512dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> &nbsp;&nbsp;<a href="https://www.linkedin.com/in/saira-abdulla-dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>  &nbsp;&nbsp; <a href="https://www.twitter.com/Devnewbie1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 <br>
