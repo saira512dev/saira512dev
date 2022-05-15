@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=In+love+with+learning&size="30"&color="84cc16";)](https://git.io/typing-svg)
+
+
 Hi 👋 My name is Saira Abdulla
 ==============================
 
