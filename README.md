@@ -12,7 +12,7 @@ I have worked as a backend developer for 6 months(PHP-LARAVEL). I have been stud
 * 🌍  I'm based in India
 * ✉️  You can contact me at [sairaabdullapa@gmail.com](mailto:sairaabdullapa@gmail.com)
 * 🧠  I'm learning The MERN stack
-* 🤝  I'm open to collaborating on interesting projects
+* 🤝  I'm open to freelance work & collaborating on interesting projects
 * ⚡  I love reading, acquiring new skills and trying out new recipes
 <br>
 <p align="center" 
