@@ -40,11 +40,13 @@ src="https://img.shields.io/github/followers/saira512dev?logo=github&style=for-t
 
 <br>
 <h3 align="center">Socials</h1>
+<div align="center">
+  
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&center=true&logoColor=white&link=https://www.linkedin.com/in/saira-abdulla-dev/)&nbsp;&nbsp;![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139&link=https://sairaabdulla.netlify.app)&nbsp;&nbsp;![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/Devnewbie1)&nbsp;&nbsp;![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey&link=https://www.codewars.com/users/saira512dev)
 
+</div>
 
-
-
-<p align="center"> <a href="https://www.github.com/saira512dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> &nbsp;&nbsp;<a href="https://www.linkedin.com/in/saira-abdulla-dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>  &nbsp;&nbsp; <a href="https://www.twitter.com/Devnewbie1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<!-- <p align="center"> <a href="https://www.github.com/saira512dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> &nbsp;&nbsp;<a href="https://www.linkedin.com/in/saira-abdulla-dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>  &nbsp;&nbsp; <a href="https://www.twitter.com/Devnewbie1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p> -->
 <br>
 <p align="center">
 <a href="http://www.github.com/saira512dev"><img src="https://github-readme-stats.vercel.app/api?username=saira512dev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ef4444&icon_color=84cc16&bg_color=FFFAFA&hide_border=true&show_icons=true" alt="saira512dev's GitHub stats" /></a></p>
