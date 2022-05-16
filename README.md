@@ -32,7 +32,7 @@ src="https://img.shields.io/github/followers/saira512dev?logo=github&style=for-t
 
 
 <h2 align="center" > Projects </h2>
-<img src="https://media.giphy.com/media/GFr1IKC0TPZnB4E7du/giphy.gif" align="left"  width="40%" height="auto"/><img src="https://media.giphy.com/media/7e9wWCOFzeiYKU40pg/giphy.gif" width="40%" height="auto"/>
+<img src="https://media.giphy.com/media/GFr1IKC0TPZnB4E7du/giphy.gif" align="left"  width="47%" height="auto"/><img src="https://media.giphy.com/media/7e9wWCOFzeiYKU40pg/giphy.gif" width="47%" height="auto"/>&nbsp;
 
 <br>
 <br>
