@@ -33,7 +33,7 @@ src="https://img.shields.io/github/followers/saira512dev?logo=github&style=for-t
 
 <h2 align="center" > Projects </h2>
 <p align="center">
-<img src="https://media.giphy.com/media/GFr1IKC0TPZnB4E7du/giphy.gif" align="center"  width="70%" height="auto"/><img src="https://media.giphy.com/media/7e9wWCOFzeiYKU40pg/giphy.gif" width="70%" height="auto" align="center"/>;
+<img src="https://media.giphy.com/media/GFr1IKC0TPZnB4E7du/giphy.gif"   width="80%" height="auto"/><img src="https://media.giphy.com/media/7e9wWCOFzeiYKU40pg/giphy.gif" width="80%" height="auto"/>;
 </p>
 <br>
 <br>
