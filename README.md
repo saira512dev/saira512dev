@@ -56,7 +56,7 @@ src="https://img.shields.io/github/followers/saira512dev?logo=github&style=for-t
 <h3 align="center">Socials</h1>
 <div align="center">
   
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&center=true&logoColor=white&link=https://www.linkedin.com/in/saira-abdulla-dev/)&nbsp;&nbsp;![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=&logoColor=black&link=https://www.sairaabdulla.netlify.app/)&nbsp;&nbsp;![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/Devnewbie1)&nbsp;&nbsp;![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey&link=https://www.codewars.com/users/saira512dev)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&center=true&logoColor=white&link=https://www.linkedin.com/in/saira-abdulla-dev/)&nbsp;&nbsp;![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=black&link=https://sairaabdulla.netlify.app/)&nbsp;&nbsp;![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/Devnewbie1)&nbsp;&nbsp;![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey&link=https://www.codewars.com/users/saira512dev)
 
 </div>
 
