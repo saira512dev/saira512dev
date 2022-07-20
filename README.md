@@ -24,7 +24,7 @@ I have worked as a backend developer for 6 months(PHP-LARAVEL). I have been stud
 <br>
 <p align="center" 
 <a href="https://www.twitter.com/saira_codes" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Devnewbie1?logo=twitter&style=for-the-badge&color=84cc16&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/saira_codes?logo=twitter&style=for-the-badge&color=84cc16&labelColor=1c1917"
 /></a>&nbsp;&nbsp;<a href="https://www.github.com/saira512dev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/saira512dev?logo=github&style=for-the-badge&color=84cc16&labelColor=1c1917" /></a>
 </p>
