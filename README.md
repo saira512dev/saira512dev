@@ -23,7 +23,7 @@ I have worked as a backend developer for 6 months(PHP-LARAVEL). I have been stud
 * ⚡  I love reading, acquiring new skills and trying out new recipes
 <br>
 <p align="center" 
-<a href="https://www.twitter.com/Devnewbie1" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/saira_codes" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Devnewbie1?logo=twitter&style=for-the-badge&color=84cc16&labelColor=1c1917"
 /></a>&nbsp;&nbsp;<a href="https://www.github.com/saira512dev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/saira512dev?logo=github&style=for-the-badge&color=84cc16&labelColor=1c1917" /></a>
