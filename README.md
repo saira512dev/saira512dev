@@ -13,6 +13,8 @@ Hi 👋 My name is Saira Abdulla
 
 Full Stack Web Developer
 ------------------------
+![Visitor Count](https://profile-counter.glitch.me/{saira512dev}/count.svg)
+
 
 I have worked as a backend developer for 6 months(PHP-LARAVEL). I have been studying front-end development since 2020. Right now, I am learning the MERN stack.
 
